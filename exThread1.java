@@ -1,4 +1,4 @@
-class demo extends Thread {
+class Demo extends Thread {
 
     @Override
     public void run() {
